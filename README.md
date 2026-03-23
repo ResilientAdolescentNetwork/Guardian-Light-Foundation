@@ -1,2 +1,8 @@
-# Guardian-Light-Foundation
-Provide free or subsidized ketamine treatments for qualified at-risk teens from low-income or underserved families who lack insurance coverage or face high out-of-pocket costs.
+Our Mission
+We exist to bridge the critical gap in mental health care for teens in crisis by eliminating financial and access barriers to rapid, evidence-based interventions. Suicide is a leading cause of death among young people, and traditional antidepressants often take weeks to work—if they work at all. Our foundation funds and facilitates medically supervised ketamine therapy in licensed clinics, delivering rapid relief from overwhelming suicidal thoughts—often within hours to days—while integrating follow-up psychotherapy and family support for sustained recovery.
+Clinical evidence demonstrates the powerful impact of ketamine in this population:
+
+Studies show that ketamine can achieve rapid reductions in suicidal ideation, with response rates often reaching 55–76% within 24–72 hours after a single infusion (compared to much lower rates with placebo controls like midazolam).
+In adolescents with treatment-resistant depression and suicidality, single or repeated infusions have led to significant symptom remission, including full resolution of suicidal thoughts in a substantial portion of cases (e.g., up to 63% full remission of suicidal ideation in related trials, and sustained benefits in many with multiple sessions).
+Esketamine (a related form) has similarly shown robust reductions in depressive symptoms and suicidal ideation in teens, with meaningful improvements observed as early as day 6 in randomized trials.
+These effects provide a critical "bridge" to longer-term healing, offering immediate hope when other options fail and helping avert crises that could otherwise lead to emergency interventions or worse outcomes.
